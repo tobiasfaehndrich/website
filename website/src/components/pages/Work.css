@@ -1,0 +1,158 @@
+.work {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+    background-position: center;
+    background-size: cover;
+    align-items: center;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    width: 100%;
+    color: #fff;
+    height: 100vh;
+    font-size: 50px;
+    margin-top: -80px;
+    font-family: "Abril Fatface", cursive;
+}
+
+.element-1 {
+    position: relative;
+    display: inline-block;
+    margin-top: 10%;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 200px;
+    height: 300px;
+    background: #757962;
+    transition: all 500ms ease-out;
+}
+
+.element-2 {
+    position: relative;
+    display: inline-block;
+    margin-top: 10%;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 200px;
+    height: 300px;
+    background: #60777d;
+    transition: all 500ms ease-out;
+}
+
+.element-3 {
+    position: relative;
+    display: inline-block;
+    margin-top: 10%;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 200px;
+    height: 300px;
+    background: #ae9f7c;
+    transition: all 500ms ease-out;
+}
+
+.element-4 {
+    position: relative;
+    display: inline-block;
+    margin-top: 10%;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 200px;
+    height: 300px;
+    background: #415551;
+    transition: all 500ms ease-out;
+}
+
+.element-5 {
+    position: relative;
+    display: inline-block;
+    margin-top: 10%;
+    margin-left: 2%;
+    margin-right: 2%;
+    width: 200px;
+    height: 300px;
+    background: #8ba280;
+    transition: all 500ms ease-out;
+}
+
+
+
+.element-1>h1 {
+    font-size: medium;
+    font-family: "Abril Fatface", cursive;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 50%;
+}
+
+.element-2>h1 {
+    font-size: medium;
+    font-family: "Abril Fatface", cursive;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 42%;
+}
+
+.element-3>h1 {
+    font-size: medium;
+    font-family: "Abril Fatface", cursive;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 50%;
+}
+
+.element-4>h1 {
+    font-size: medium;
+    font-family: "Abril Fatface", cursive;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 42%;
+}
+
+.element-5>h1 {
+    font-size: medium;
+    font-family: "Abril Fatface", cursive;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 50%;
+
+}
+
+.element-1:hover {
+    position: relative;
+    width: 220px;
+    height: 330px;
+    background-color: #b9bf9c;
+    transition: all 0.4s ease-out;
+}
+
+.element-2:hover {
+    width: 220px;
+    height: 330px;
+    background-color: #405053;
+    transition: all 0.4s ease-out;
+}
+
+.element-3:hover {
+    width: 220px;
+    height: 330px;
+    background-color: #7b6d4c;
+    transition: all 0.4s ease-out;
+}
+
+.element-4:hover {
+    width: 220px;
+    height: 330px;
+    background-color: #7f9e98;
+    transition: all 0.4s ease-out;
+}
+
+.element-5:hover {
+    width: 220px;
+    height: 330px;
+    background-color: #515f4b;
+    transition: all 0.4s ease-out;
+}
